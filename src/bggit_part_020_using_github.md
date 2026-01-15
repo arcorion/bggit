@@ -206,7 +206,7 @@ The key's randomart image is:
 > visual representation of that key. There are ways to configure SSH so
 > that you see the randomart every time you log in. And the idea is
 > that if one day you see it looks different, something could be amiss
-> security-wise. I doubt most people every look at it again once it's
+> security-wise. I doubt most people ever look at it again once it's
 > been generated, though.
 
 Now if you type `ls ~/.ssh` you should see something like this:
